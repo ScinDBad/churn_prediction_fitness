@@ -1,10 +1,13 @@
 # churn_prediction_fitness
-Construction of a classifier model to predict customer membership churn in a fitness center. 
+__Construction of a classifier model to predict customer membership churn in a fitness center.__ 
 
-"It's necessary to implement an effective customer retention strategy through data analysis. The main goal is to predict the probability of customer churn for the next month, identify key customer profiles, and develop specific recommendations to improve customer retention and satisfaction. This will enable optimizing the customer experience and strengthening their loyalty."
+### Description:
 
-__Process:__
+"It's necessary to implement an effective customer retention strategy through data analysis. 
+The main goal is to predict the probability of customer churn for the next month, identify key customer profiles, and develop specific recommendations to improve customer retention and satisfaction. 
+This will enable optimizing the customer experience and strengthening their loyalty."
 
+### Process: 
 <img src="https://github.com/ScinDBad/churn_prediction_fitness/assets/153782475/d173b8ce-3555-4be8-9f52-02e97e16a9ff" alt="Diagrama en blanco" width="500">
 
 - Exploratory Data Analysis with preprocessing, outlier replacement, and feature correlation study.<br>
@@ -13,13 +16,13 @@ __Process:__
 - Analyze the most influential features in membership churn.<br>
 - Visualize paired-features clusters and get churn rate per cluster.<br>
 
-__Tools:__<br>
+### Tools:<br>
 Python, Jupyter, Project IDX
 
 <img src="https://github.com/ScinDBad/churn_prediction_fitness/assets/153782475/f376ec1b-cf70-452a-b540-9b46284fd05b" alt="Diagrama en blanco1" width="175">
 
-
-__Instructions:__
+___
+### Instructions:
 - Create a virtual environment
 - Install PIP 
 - Install `requirements.txt` (then install other libraries if needed)
