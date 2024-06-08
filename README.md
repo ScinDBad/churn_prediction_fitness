@@ -1,3 +1,4 @@
+<!-- Suggested code may be subject to a license. Learn more: ~LicenseLog:903170691. -->
 # churn_prediction_fitness
 __Construction of a classifier model to predict customer membership churn in a fitness center.__ 
 
@@ -29,11 +30,11 @@ ___
 - Create a virtual environment
 - Install PIP 
 - Install `requirements.txt` (then install other libraries if needed)
-- If necessary Set/enable the packages `pkgs.python311`, `pkgs.python311Packages.pip` in the .nix file
+- If necessary Set/enable the packages `pkgs.python39`, `pkgs.python39Packages.pip` in the .nix file
 
 _*Note:* This project was carried out within the Project IDX environment (by Google) based on Nix.
-A virtual environment was used to run Python version 3.11.8 supported by the environment and other libraries for data analysis.
+A virtual environment was used to run Python version 3.9.19 supported by the environment and other libraries for data analysis.
 The requirements.txt file contains detailed dependencies used in the project to function in the IDX environment.
-The .idx/dev.nix file contains the package configuration to be used, which are: `pkgs.python311`, `pkgs.python311Packages.pip`._
+The .idx/dev.nix file contains the package configuration to be used, which are: `pkgs.python39`, `pkgs.python39Packages.pip`._
 
 
