@@ -8,8 +8,8 @@ __Process:__
 - Exploratory Data Analysis with preprocessing, outlier replacement, and feature correlation study.<br>
 - Pre-select 2 classification models, segment the data, train, predict, tune, compare and decide.<br>
 - Group and characterize customers by clusters to determine churn profile.<br>
-- Analyze the most influential features in membership cancellation.<br>
-- Visualize clusters by paired features and get churn rate per cluster.<br>
+- Analyze the most influential features in membership churn.<br>
+- Visualize paired-features clusters and get churn rate per cluster.<br>
 
 __Tools:__<br>
 Python, Jupyter, Project IDX
