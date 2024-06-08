@@ -32,9 +32,20 @@ ___
 - Install `requirements.txt` (then install other libraries if needed)
 - If necessary Set/enable the packages `pkgs.python39`, `pkgs.python39Packages.pip` in the .nix file
 
+If requirements.txt is troublesome, then install separately the libraries:
+
+pandas 1.2.4
+numpy 1.26.4
+seaborn 0.11.1
+matplotlib 3.3.4
+scipy 1.13.1
+sckit-learn 0.24.1
+
+```bash
+pip install library_name==version_number
+```
+
 _*Note:* This project was carried out within the Project IDX environment (by Google) based on Nix.
 A virtual environment was used to run Python version 3.9.19 supported by the environment and other libraries for data analysis.
 The requirements.txt file contains detailed dependencies used in the project to function in the IDX environment.
 The .idx/dev.nix file contains the package configuration to be used, which are: `pkgs.python39`, `pkgs.python39Packages.pip`._
-
-
