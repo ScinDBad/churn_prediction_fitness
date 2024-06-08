@@ -1,8 +1,8 @@
 # churn_prediction_fitness
 __Construction of a classifier model to predict customer membership churn in a fitness center.__ 
 
-<img src="https://github.com/ScinDBad/churn_prediction_fitness/assets/153782475/7caf728e-f741-44a1-8ebe-e64a2866195d" width="150">
-<img src="https://github.com/ScinDBad/churn_prediction_fitness/assets/153782475/552fc61c-9568-43fa-aa99-7be2d8667555" width="150">
+<img src="https://github.com/ScinDBad/churn_prediction_fitness/assets/153782475/7caf728e-f741-44a1-8ebe-e64a2866195d" width="110">
+<img src="https://github.com/ScinDBad/churn_prediction_fitness/assets/153782475/552fc61c-9568-43fa-aa99-7be2d8667555" width="110">
 
 ### Description:
 
