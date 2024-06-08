@@ -1,5 +1,7 @@
 # churn_prediction_fitness
-Construction of a classifier model to predict customer churn in a fitness center. 
+Construction of a classifier model to predict customer membership churn in a fitness center. 
+
+"A chain of gyms needs to implement an effective customer retention strategy through advanced data analysis. The main goal is to predict the probability of customer churn for the next month, identify key customer profiles, and develop specific recommendations to improve customer retention and satisfaction. This will enable optimizing the customer experience and strengthening their loyalty."
 
 __Process:__
 
