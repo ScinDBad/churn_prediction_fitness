@@ -5,6 +5,12 @@ __Process:__
 
 <img src="https://github.com/ScinDBad/churn_prediction_fitness/assets/153782475/d173b8ce-3555-4be8-9f52-02e97e16a9ff" alt="Diagrama en blanco" width="500">
 
+- Exploratory Data Analysis with preprocessing, outlier replacement, and feature correlation study.<br>
+- Pre-select 2 classification models, segment the data, train, predict, tune, compare and decide.<br>
+- Group and characterize customers by clusters to determine churn profile.<br>
+- Analyze the most influential features in membership cancellation.<br>
+- Visualize clusters by paired features and get churn rate per cluster.<br>
+
 __Tools:__<br>
 Python, Jupyter, Project IDX
 
