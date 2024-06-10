@@ -33,7 +33,7 @@ ___
 - Install `requirements.txt`
   
 <details>
-<summary>Or install libraies separately in terminal</summary><br>
+<summary>Or install libraries manually in terminal</summary><br>
 
   - pandas 1.2.4
   - numpy 1.26.4
@@ -41,7 +41,7 @@ ___
   - matplotlib 3.3.4
   - scipy 1.13.1
   - scikit-learn 0.24.1
-
+    
 ```bash
 pip install pandas==1.2.4 numpy==1.26.4 seaborn==0.11.1 matplotlib==3.3.4 scipy==1.13.1 scikit-learn==0.24.1
 ```
