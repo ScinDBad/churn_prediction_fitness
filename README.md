@@ -23,7 +23,7 @@ This will enable optimizing the customer experience and strengthening their loya
 ### Tools:<br>
 Python, Jupyter, Project IDX
 
-<img src="https://github.com/ScinDBad/churn_prediction_fitness/assets/153782475/f376ec1b-cf70-452a-b540-9b46284fd05b" alt="Diagrama en blanco1" width="175">
+<img src="https://github.com/ScinDBad/gamEda/assets/153782475/b44447b0-2286-4c64-889c-1944c1c7e51c" alt="Diagrama en blanco1" width="175">
 
 ___
 ### Instructions:
