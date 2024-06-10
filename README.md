@@ -23,9 +23,9 @@ This will enable optimizing the customer experience and strengthening their loya
 ### Tools:<br>
 Python, Jupyter, Project IDX
 
-<img src="https://github.com/ScinDBad/gamEda/assets/153782475/b44447b0-2286-4c64-889c-1944c1c7e51c" alt="Diagrama en blanco1" width="175">
+<img src="https://github.com/ScinDBad/gamEda/assets/153782475/b44447b0-2286-4c64-889c-1944c1c7e51c" alt="Diagrama en blanco1" width="175"><br>
 
-<a href="https://idx.google.com/import?url=https://github.com/ScinDBad/gamEda">
+<a href="https://idx.google.com/import?url=https://github.com/ScinDBad/churn_prediction_fitness">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.idx.dev/btn/open_dark_32@2x.png">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.idx.dev/btn/open_light_32@2x.png">
