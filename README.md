@@ -5,7 +5,7 @@ __Construction of a classifier model to predict customer membership churn in a f
 <img src="https://github.com/ScinDBad/churn_prediction_fitness/assets/153782475/ec542f17-8b48-4d86-8dcc-7bcab42b0762" width="250">
 
 
-### Description:
+### Description: 
 
 "It's necessary to implement an effective customer retention strategy through data analysis. 
 The main goal is to predict the probability of customer churn for the next month, identify key customer profiles, and develop specific recommendations to improve customer retention and satisfaction. 
