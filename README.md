@@ -11,6 +11,14 @@ __Construction of a classifier model to predict customer membership churn in a f
 The main goal is to predict the probability of customer churn for the next month, identify key customer profiles, and develop specific recommendations to improve customer retention and satisfaction. 
 This will enable optimizing the customer experience and strengthening their loyalty."
 
+### Insights:
+
+| ![imagen_1](https://github.com/user-attachments/assets/fcef9400-4917-4599-ad4c-c35004362d15) | ![imagen_2](https://github.com/user-attachments/assets/249681e4-a650-4618-8288-9a41363757ed) <br> ![imagen_3](https://github.com/user-attachments/assets/6a6f1551-ed15-4c8c-9807-335888acd6e3) |
+| :--: | :--: |
+| ![imagen_4](https://github.com/user-attachments/assets/95f912ac-144f-4828-850d-c1e3ee630b52) | ![imagen_5](https://github.com/user-attachments/assets/d83602f2-d5a3-41c4-a801-e43b5c1a958a) |
+
+Lorem
+
 ### Process: 
 <img src="https://github.com/ScinDBad/churn_prediction_fitness/assets/153782475/d173b8ce-3555-4be8-9f52-02e97e16a9ff" alt="Diagrama en blanco" width="500">
 
