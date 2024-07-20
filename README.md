@@ -15,10 +15,29 @@ This will enable optimizing the customer experience and strengthening their loya
 
 | ![imagen_1](https://github.com/user-attachments/assets/fcef9400-4917-4599-ad4c-c35004362d15) | ![imagen_2](https://github.com/user-attachments/assets/249681e4-a650-4618-8288-9a41363757ed) <br> ![imagen_3](https://github.com/user-attachments/assets/6a6f1551-ed15-4c8c-9807-335888acd6e3) |
 | :--: | :--: |
-| ![imagen_4](https://github.com/user-attachments/assets/95f912ac-144f-4828-850d-c1e3ee630b52) | ![imagen_5](https://github.com/user-attachments/assets/d83602f2-d5a3-41c4-a801-e43b5c1a958a) |
+| ![imagen_4](https://github.com/user-attachments/assets/95f912ac-144f-4828-850d-c1e3ee630b52) | ![image](https://github.com/user-attachments/assets/516a5342-4888-4c7d-b4ab-2bd50b10d59c)|
 
-Lorem
+![image](https://github.com/user-attachments/assets/e5b51abe-baab-4e54-b2fa-8b60c2336def)
 
+
+Users were characterized by 13 aspects, with the most influential factors regarding membership cancellation being: 
+- 'lifetime' (tenure)
+- 'avg_class_frequency_current_month' (weekly attendance in the month)
+- 'age' - 'avg_additional_charges_total' (additional charges)
+- remaining time.
+  
+Membership cancellation, classified as Churn = 1: abandonment, 0: retention, can be predicted using a binary classification supervised learning algorithm called Logistic Regression, which performs well with notable discriminative capability, is quick to train, and does not require hyperparameter tuning.
+The model has a strong ability to predict true negatives, meaning it better identifies customers who stay rather than those who cancel, according to the confusion matrix. The prediction metrics were:
+
+- Accuracy: 0.91
+- Precision: 0.81
+- Sensitivity (Recall): 0.81
+- Quality (AUC-ROC): 0.96
+
+Dendrogram indicates there are 5 featured groups, where No. 4 is clearly defined as the churning group, so its features describe what makes this group cancell their membership, generally young individuals who did not attend for more than 10 months. 
+Cluster 3 had approximately a quarter of users who dropped out of the gym.The most loyal users were those in Clusters 0, 1 and 2.
+
+---
 ### Process: 
 <img src="https://github.com/ScinDBad/churn_prediction_fitness/assets/153782475/d173b8ce-3555-4be8-9f52-02e97e16a9ff" alt="Diagrama en blanco" width="500">
 
